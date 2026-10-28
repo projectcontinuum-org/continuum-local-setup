@@ -201,18 +201,18 @@ The Kafka cluster + Temporal + all services need ~6–8 GB. Increase Docker's me
 
 | Repository | Description |
 |-----------|-------------|
-| [Continuum](https://github.com/projectcontinuum/Continuum) | Core backend — API server, worker framework, shared libraries |
-| [continuum-workbench](https://github.com/projectcontinuum/continuum-workbench) | Browser IDE — Eclipse Theia + React Flow workflow editor |
-| [continuum-feature-base](https://github.com/projectcontinuum/continuum-feature-base) | Base analytics nodes — transforms, REST, scripting, anomaly detection |
-| [continuum-feature-ai](https://github.com/projectcontinuum/continuum-feature-ai) | AI/ML nodes — LLM fine-tuning with Unsloth + LoRA |
-| [continuum-feature-cheminformatics](https://github.com/projectcontinuum/continuum-feature-cheminformatics) | Chemistry nodes — RDKit molecular operations |
-| [continuum-feature-template](https://github.com/projectcontinuum/continuum-feature-template) | Template — scaffold your own custom worker with nodes |
+| [Continuum](https://github.com/projectcontinuum-org/continuum-platform-core) | Core backend — API server, worker framework, shared libraries |
+| [continuum-workbench](https://github.com/projectcontinuum-org/continuum-workbench) | Browser IDE — Eclipse Theia + React Flow workflow editor |
+| [continuum-feature-base](https://github.com/projectcontinuum-org/continuum-feature-base) | Base analytics nodes — transforms, REST, scripting, anomaly detection |
+| [continuum-feature-ai](https://github.com/projectcontinuum-org/continuum-feature-ai) | AI/ML nodes — LLM fine-tuning with Unsloth + LoRA |
+| [continuum-feature-cheminformatics](https://github.com/projectcontinuum-org/continuum-feature-cheminformatics) | Chemistry nodes — RDKit molecular operations |
+| [continuum-feature-template](https://github.com/projectcontinuum-org/continuum-feature-template) | Template — scaffold your own custom worker with nodes |
 
 ---
 
 ## License
 
-[Apache 2.0](../LICENSE) — open, safe, patent-protected.
+[Apache 2.0](LICENSE) — open, safe, patent-protected.
 
 ---
 
